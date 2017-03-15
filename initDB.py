@@ -1,0 +1,3 @@
+import DBSetup
+
+DBSetup.ResetDB()
